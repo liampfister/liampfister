@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-This page is currently under construction!
+- <b>This page is currently under construction!</b>
 
 
 <!--
